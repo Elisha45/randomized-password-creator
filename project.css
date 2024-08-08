@@ -1,0 +1,73 @@
+
+
+.layout{
+    margin-left: 38%;
+    margin-top: 15%;
+    width: 20%;
+    height: 40vh;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    
+}
+.square1{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: inset;
+}
+.square2{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+.square3{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: outset;
+    
+}
+.square4{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: inset;
+}
+.square5{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+.square6{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: outset;
+}
+.square7{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: inset;
+}
+.square8{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+.square9{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: outset;
+}
+
+.butt{
+    height: 12px;
+    width: 10%;
+    background-color:red;
+}
